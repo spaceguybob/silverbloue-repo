@@ -1,4 +1,4 @@
-# Starting point
+# silverbloue-repo
 
 [![build-ublue](https://github.com/spaceguybob/silverbloue-repo/actions/workflows/build.yml/badge.svg)](https://github.com/spaceguybob/silverbloue-repo/actions/workflows/build.yml)
 
